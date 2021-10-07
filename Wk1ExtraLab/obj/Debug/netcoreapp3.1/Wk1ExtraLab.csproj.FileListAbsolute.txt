@@ -1,0 +1,14 @@
+C:\Users\abeer\source\repos\Labs\Wk1ExtraLab\Wk1ExtraLab\Wk1ExtraLab\obj\Debug\netcoreapp3.1\Wk1ExtraLab.csproj.AssemblyReference.cache
+C:\Users\abeer\source\repos\Labs\Wk1ExtraLab\Wk1ExtraLab\Wk1ExtraLab\obj\Debug\netcoreapp3.1\Wk1ExtraLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abeer\source\repos\Labs\Wk1ExtraLab\Wk1ExtraLab\Wk1ExtraLab\obj\Debug\netcoreapp3.1\Wk1ExtraLab.AssemblyInfoInputs.cache
+C:\Users\abeer\source\repos\Labs\Wk1ExtraLab\Wk1ExtraLab\Wk1ExtraLab\obj\Debug\netcoreapp3.1\Wk1ExtraLab.AssemblyInfo.cs
+C:\Users\abeer\source\repos\Labs\Wk1ExtraLab\Wk1ExtraLab\Wk1ExtraLab\obj\Debug\netcoreapp3.1\Wk1ExtraLab.csproj.CoreCompileInputs.cache
+C:\Users\abeer\source\repos\Labs\Wk1ExtraLab\Wk1ExtraLab\Wk1ExtraLab\bin\Debug\netcoreapp3.1\Wk1ExtraLab.exe
+C:\Users\abeer\source\repos\Labs\Wk1ExtraLab\Wk1ExtraLab\Wk1ExtraLab\bin\Debug\netcoreapp3.1\Wk1ExtraLab.deps.json
+C:\Users\abeer\source\repos\Labs\Wk1ExtraLab\Wk1ExtraLab\Wk1ExtraLab\bin\Debug\netcoreapp3.1\Wk1ExtraLab.runtimeconfig.json
+C:\Users\abeer\source\repos\Labs\Wk1ExtraLab\Wk1ExtraLab\Wk1ExtraLab\bin\Debug\netcoreapp3.1\Wk1ExtraLab.runtimeconfig.dev.json
+C:\Users\abeer\source\repos\Labs\Wk1ExtraLab\Wk1ExtraLab\Wk1ExtraLab\bin\Debug\netcoreapp3.1\Wk1ExtraLab.dll
+C:\Users\abeer\source\repos\Labs\Wk1ExtraLab\Wk1ExtraLab\Wk1ExtraLab\bin\Debug\netcoreapp3.1\Wk1ExtraLab.pdb
+C:\Users\abeer\source\repos\Labs\Wk1ExtraLab\Wk1ExtraLab\Wk1ExtraLab\obj\Debug\netcoreapp3.1\Wk1ExtraLab.dll
+C:\Users\abeer\source\repos\Labs\Wk1ExtraLab\Wk1ExtraLab\Wk1ExtraLab\obj\Debug\netcoreapp3.1\Wk1ExtraLab.pdb
+C:\Users\abeer\source\repos\Labs\Wk1ExtraLab\Wk1ExtraLab\Wk1ExtraLab\obj\Debug\netcoreapp3.1\Wk1ExtraLab.genruntimeconfig.cache
