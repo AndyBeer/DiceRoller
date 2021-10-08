@@ -24,24 +24,13 @@ namespace Wk1ExtraLab
             int numDice;
 
             Console.WriteLine($"\nWelcome to the D&D Dice Roller!!\n");
-            string initResponse = GetInput("Shall we roll some dice? y/n");
-
-            if (initResponse.ToLower() == "y")
-            {
-                keepGoing = true;
-            }
-            else if (initResponse.ToLower() == "n")
-            {
-                keepGoing = false;
-            }
-            else
-            {
-                ContinueLoop("I'm sorry, I didnt catch that.  Please input y to try again, or n to exit.");
-            }
+            
+            ContinueLoop("Ready to roll some dice?  y/n");
+            
             while (keepGoing)
             {
                 userSides = ValidateInteger();
-                numDice = HowManyDice();//Come back up here once method is built
+                numDice = HowManyDice();
 
                 while (rollDice)
                 {
@@ -80,13 +69,12 @@ namespace Wk1ExtraLab
                 return ContinueLoop("I'm sorry, I didnt catch that.  Please input y to try again, or n to exit.");
             }
         }
-        public static bool ContinueRollDice()
+        public static bool ContinueRollDice(string input)
         {
-            string answer = GetInput("Roll Dice? y/n");
+            string answer = GetInput(input);
             if (answer.ToLower() == "y")
             {
                 return true;
-
             }
             else if (answer.ToLower() == "n")
             {
@@ -97,7 +85,7 @@ namespace Wk1ExtraLab
             else
             {
                 Console.WriteLine("Sorry, that is not a valid response.\nPlease input y to roll dice, or n to start over.");
-                return ContinueRollDice();
+                return ContinueRollDice(input);
             }
         }
         public static int ValidateInteger()
